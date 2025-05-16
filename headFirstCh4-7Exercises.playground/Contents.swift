@@ -8,3 +8,6 @@ import UIKit
 
 //##NOTE: Extra information
  
+print(min(9, -3, 12,7))
+print(max("clown", "barn", "pillow", "Zoo"))
+print(max("clown", "barn", "pillow", "Zoo", "Doll"))
